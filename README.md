@@ -1,1 +1,1 @@
-# getting-started-wtih-gpus
+# getting-started-with-gpus
